@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -6,13 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>I Am the Knight</p>
-        <p>We Live In A Society</p>
-        <p>We Live In A Society</p>
-        <p>Why So Serious?</p>
+        <p>Bye there!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
